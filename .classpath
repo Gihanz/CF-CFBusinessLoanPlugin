@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/jdk1.6.0_11/jre/lib/resources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/jdk1.6.0_11/jre/lib/rt.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/jdk1.6.0_11/jre/lib/jsse.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/jdk1.6.0_11/jre/lib/jce.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/jdk1.6.0_11/jre/lib/charsets.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/jdk1.6.0_11/jre/lib/ext/dnsns.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/jdk1.6.0_11/jre/lib/ext/localedata.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/jdk1.6.0_11/jre/lib/ext/sunjce_provider.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/jdk1.6.0_11/jre/lib/ext/sunmscapi.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Java/jdk1.6.0_11/jre/lib/ext/sunpkcs11.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/j2ee.jar"/>
+	<classpathentry kind="lib" path="D:/eclipse/dropins/navigatorAPI.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
